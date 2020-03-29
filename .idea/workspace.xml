@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="188295f9-7a8a-49f1-bd5c-fb2ed477738a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnsfzSIkAvQNQJ97X71TaKQITh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/btgpactualdigital" />
+  </component>
+  <component name="RunManager" selected="JUnit.MoneyTransferTest.testAccountTransfer">
+    <configuration name="AccountRepositoryImplTest.testAccountSingleThreadSameCcyTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="btg-backend-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btgpactualdigital.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.btgpactualdigital.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.btgpactualdigital.repository.AccountRepositoryImplTest" />
+      <option name="METHOD_NAME" value="testAccountSingleThreadSameCcyTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountRepositoryImplTest.testGetAccountById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="btg-backend-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btgpactualdigital.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.btgpactualdigital.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.btgpactualdigital.repository.AccountRepositoryImplTest" />
+      <option name="METHOD_NAME" value="testGetAccountById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTransferTest.testAccountMultiThreadedTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="btg-backend-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btgpactualdigital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.btgpactualdigital" />
+      <option name="MAIN_CLASS_NAME" value="com.btgpactualdigital.MoneyTransferTest" />
+      <option name="METHOD_NAME" value="testAccountMultiThreadedTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTransferTest.testAccountSingleThreadSameCcyTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="btg-backend-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btgpactualdigital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.btgpactualdigital" />
+      <option name="MAIN_CLASS_NAME" value="com.btgpactualdigital.MoneyTransferTest" />
+      <option name="METHOD_NAME" value="testAccountSingleThreadSameCcyTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTransferTest.testAccountTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="btg-backend-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btgpactualdigital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.btgpactualdigital" />
+      <option name="MAIN_CLASS_NAME" value="com.btgpactualdigital.MoneyTransferTest" />
+      <option name="METHOD_NAME" value="testAccountTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MoneyTransferTest.testAccountTransfer" />
+        <item itemvalue="JUnit.AccountRepositoryImplTest.testAccountSingleThreadSameCcyTransfer" />
+        <item itemvalue="JUnit.MoneyTransferTest.testAccountMultiThreadedTransfer" />
+        <item itemvalue="JUnit.MoneyTransferTest.testAccountSingleThreadSameCcyTransfer" />
+        <item itemvalue="JUnit.AccountRepositoryImplTest.testGetAccountById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="188295f9-7a8a-49f1-bd5c-fb2ed477738a" name="Default Changelist" comment="" />
+      <created>1585486299622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585486299622</updated>
+      <workItem from="1585486305172" duration="14707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585487461915">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585487461915" />
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1585492990283">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1585492990283" />
+    <state x="589" y="403" width="501" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585487588234">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="589" y="403" width="501" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.1027@0.23.1680.1027" timestamp="1585487588234" />
+    <state x="578" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585501170544">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="578" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585501170544" />
+    <state x="641" y="366" key="#xdebugger.evaluate" timestamp="1585497482343">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="641" y="366" key="#xdebugger.evaluate/0.23.1680.1027@0.23.1680.1027" timestamp="1585497482343" />
+    <state width="499" height="466" key="DebuggerActiveHint" timestamp="1585496686312">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="499" height="466" key="DebuggerActiveHint/0.23.1680.1027@0.23.1680.1027" timestamp="1585496686312" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1585501182950">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585501182950" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1585501182950">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585501182950" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1585501182949">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585501182949" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1585501182950">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585501182950" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1585500682867">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585500682867" />
+    <state width="1638" height="345" key="GridCell.Tab.1.center" timestamp="1585500682867">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585500682867" />
+    <state width="1638" height="345" key="GridCell.Tab.1.left" timestamp="1585500682866">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585500682866" />
+    <state width="1638" height="345" key="GridCell.Tab.1.right" timestamp="1585500682867">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585500682867" />
+    <state x="623" y="321" key="chooseDestDirectoryDialog" timestamp="1585498101358">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="623" y="321" key="chooseDestDirectoryDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585498101358" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1585497572329">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1585497572329" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/btgpactualdigital/repository/impl/AccountRepositoryImpl.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
